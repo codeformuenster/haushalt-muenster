@@ -1,0 +1,35 @@
+diff --git a/venv/Lib/site-packages/pdfquery/pdfquery.py b/venv/Lib/site-packages/pdfquery/pdfquery.py
+index d154485..f49c4dc 100644
+--- a/venv/Lib/site-packages/pdfquery/pdfquery.py
++++ b/venv/Lib/site-packages/pdfquery/pdfquery.py
+@@ -39,6 +39,8 @@ from six.moves import zip
+ from .pdftranslator import PDFQueryTranslator
+ from .cache import DummyCache
+ 
++# hacky hack
++import hashlib
+ 
+ # Re-sort the PDFMiner Layout tree so elements that fit inside other elements
+ # will be children of them
+@@ -84,6 +86,12 @@ def _comp_bbox(el, el2):
+ 
+ 
+ # assorted helpers
++def _flattenMD5(l, ltypes=(list, tuple)):
++    tmp = _flatten(l, ltypes=(list, tuple))
++    m=hashlib.md5();
++    m.update(str(tmp).encode('utf-8'));
++    return m.hexdigest()
++
+ def _flatten(l, ltypes=(list, tuple)):
+     # via http://rightfootin.blogspot.com/2006/09/more-on-python-flatten.html
+     ltype = type(l)
+@@ -455,7 +463,7 @@ class PDFQuery(object):
+             Return lxml.etree.ElementTree for entire document, or page numbers
+             given if any.
+         """
+-        cache_key = "_".join(map(str, _flatten(page_numbers)))
++        cache_key = "_"+_flattenMD5(page_numbers)
+         tree = self._parse_tree_cacher.get(cache_key)
+         if tree is None:
+             # set up root
