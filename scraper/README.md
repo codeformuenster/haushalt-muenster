@@ -43,5 +43,17 @@ Run the script:
 python haushaltescraper.py
 ```
 
-The output will be written to a CSV file called `eggs.csv`.
+The output will be written to a CSV file specified in `out_filename` (see above).
 
+## How the scraper works
+
+The script tries to identify text in various regions of each PDF page.
+
+See this illustration:
+
+![example image of a table](table.png "Haushalt 2019 Band 2 - Produktgruppe 0301")
+
+1. Each table is labelled "Teilergebnisplan" in the top left corner, if this text is not found then skip the page
+2. Each page contains a heading which should include "Produktgruppe <4 numbers>" and its meaning, if the number is not found skip the page
+3. If conditions 1 and 2 match then find the text "= Ordentliche Erträge", store its y coordinates (page contents can shift slightly) and grab the value
+4. Same as 3 with the text "= Ordentliche Aufwendungen"

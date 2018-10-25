@@ -54,7 +54,6 @@ def parsePdf(config):
 				continue
 			else:
 				produktgruppe_identifier = prod_gruppe_re.group(1)
-				print(produktgruppe_identifier)
 
 			# Calculate value bboxes from known text
 			ord_ertr_label = pdf.pq('LTTextLineHorizontal:contains("= Ordentliche Erträge ")')
@@ -91,7 +90,7 @@ def parsePdf(config):
 			if verbose:
 				print("Added data")
 			else:
-				print("Added data from page {}".format(page))
+				print("Added data from page {}, prod.id {}".format(page, produktgruppe_identifier))
 
 		except Exception as e:
 			print('An Exception occured: {}'.format(e))
@@ -106,12 +105,17 @@ if __name__ == '__main__':
 	#pdf_filename = "input/HH_2018_Band_2.pdf"                         # 596 pages
 	#pdf_filename = "input/HH_2016_Band_2_Druckexemplar_mit_Lesez.pdf" # 586 pages
 	#pdf_filename = "input/HPL_2015_Band_2_mit_Seitenz_m_Lesez.pdf"    # 584 pages
-	pdf_filename = "input/Band_2_HPL_2014.pdf"                        # 796 pages
-	out_filename = "output/ergebnis-2012-complete.csv"
+	#pdf_filename = "input/Band_2_HPL_2014.pdf"                        # 796 pages
+	#pdf_filename = "input/HH_2013_Band_2-fixed.pdf"                   # 588 pages
+	#pdf_filename = "input/Haushaltsplan_2012_Band_2.pdf"              # 590 pages
+	#pdf_filename = "input/HPL_2011_Band_2-fixed.pdf"                  # 572 pages
+	#pdf_filename = "input/HPL_2010_Band_2.pdf"                        # 588 pages
+	pdf_filename = "input/Haushaltsplan_2009_Band_2-fixed.pdf"         # 796 pages
+	out_filename = "output/ergebnis-2007-band2.csv"
 	# pagelist is 0-indexed
 	pagelist = [list(range(0,200)), list(range(200,400)), list(range(400,795))]
 	# more detailed logging
-	verbose = True
+	verbose = False
 	## Config end
 
 	# Generate a configuration dict for every process
