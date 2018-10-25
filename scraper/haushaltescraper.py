@@ -109,7 +109,7 @@ if __name__ == '__main__':
 	pdf_filename = "input/Band_2_HPL_2014.pdf"                        # 796 pages
 	out_filename = "output/ergebnis-2012-complete.csv"
 	# pagelist is 0-indexed
-	pagelist = [list(range(0,200)), list(range(200,400)), list(range(400,765))]
+	pagelist = [list(range(0,200)), list(range(200,400)), list(range(400,795))]
 	# more detailed logging
 	verbose = True
 	## Config end
