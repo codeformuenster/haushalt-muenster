@@ -10,6 +10,10 @@ Dateien mit dem Wort `complete` im Namen wurden stichprobenartig auf Korrektheit
 
 ### Haushaltsdaten
 
+Ergebnisdaten für die Haushaltsjahre 2007 bis 2016: [ergebnisse_2007_2016.csv](ergebnisse_2007_2016.csv)
+
+### Haushaltsdaten pro Jahr
+
 Hinweise:
 
 - Notiz "rep.": Die original PDF ist fehlerhaft und wurde mit pdf2go repariert, da sie in SumatraPDF und/oder der Python Library nicht geöffnet werden konnte.
@@ -63,9 +67,11 @@ Hinweise:
 * [ergebnis-2016-band1.csv](ergebnis-2016-band1.csv): Ergebnis für das Jahr 2016 aus "Haushaltsplan 2018, Band 1"
 * [ergebnis-2016-band2.csv](ergebnis-2016-band2.csv): Ergebnis für das Jahr 2016 aus "Haushaltsplan 2018, Band 2"
 
-### Weitere Dokumente
+### Weitere Dateien
 
 Aus den PDFs 2018 Band 1 und Band 2 für das Jahr 2016: Codes und Bezeichnungen für die Produktbereiche (Code-1) sowie Produktgruppen (Code-2, Untergruppen der Produktbereiche), ergänzt um die Codes `0112 Gebäudemanagement` (im Haushalt 2007-2009) und `0505 Lastenausgleich` (2007-2011).
 
 * [codes-2016-produktbereiche.csv](codes-2016-produktbereiche.csv)
 * [codes-2016-produktgruppen.csv](codes-2016-produktgruppen.csv)
+
+Script zum Kombinieren und anreichern der Daten mit Codes der Produktbereiche: [combine_complete.py](combine_complete.py)
