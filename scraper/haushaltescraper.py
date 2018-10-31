@@ -100,7 +100,6 @@ def parsePdf(config):
 
 if __name__ == '__main__':
 	## Config start - change these values
-	processes = 3
 	#pdf_filename = "input/HH_2017_Band_2_m_Lesez.pdf"                 # 586 pages
 	#pdf_filename = "input/HH_2018_Band_2.pdf"                         # 596 pages
 	#pdf_filename = "input/HH_2016_Band_2_Druckexemplar_mit_Lesez.pdf" # 586 pages
@@ -110,10 +109,22 @@ if __name__ == '__main__':
 	#pdf_filename = "input/Haushaltsplan_2012_Band_2.pdf"              # 590 pages
 	#pdf_filename = "input/HPL_2011_Band_2-fixed.pdf"                  # 572 pages
 	#pdf_filename = "input/HPL_2010_Band_2.pdf"                        # 588 pages
-	pdf_filename = "input/Haushaltsplan_2009_Band_2-fixed.pdf"         # 796 pages
-	out_filename = "output/ergebnis-2007-band2.csv"
+	#pdf_filename = "input/Haushaltsplan_2009_Band_2-fixed.pdf"        # 796 pages
+	#pdf_filename = "input/Haushaltsplan_2010_Band_1-fixed.pdf"        # 664 pages
+	#pdf_filename = "input/Haushaltsplan_2011_Band_1-fixed.pdf"        # 712 pages
+	#pdf_filename = "input/Haushaltsplan_2012_Band_1.pdf"              # 700 pages
+	#pdf_filename = "input/HH_2013_Band_1-fixed.pdf"                   # 844 pages
+	#pdf_filename = "input/HPL_2015_Band_1_mit_Seitenz_m_Lesez.pdf"    # 626 pages
+	#pdf_filename = "input/HH_2016_Band_1_Druckexemplar_m_Lesez.pdf"   # 614 pages
+	#pdf_filename = "input/HH_2017_Band_1_m_Lesez-rotated.pdf"         # 217 pages
+	pdf_filename = "input/HH_2018_Band_1.pdf"                         # 650 pages
+	
+	out_filename = "output/ergebnis-2016-band1.csv"
 	# pagelist is 0-indexed
-	pagelist = [list(range(0,200)), list(range(200,400)), list(range(400,795))]
+	# create as many lists as you have cores available (leave at least one unused to not totally bog down your computer)
+	# distribute page range evenly for quickest processing, leave out pages that are not of interest
+	processes = 3
+	pagelist = [list(range(415,500)), list(range(500,600)), list(range(600,650))]
 	# more detailed logging
 	verbose = False
 	## Config end
