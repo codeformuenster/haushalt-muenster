@@ -4,6 +4,8 @@ In diesem Ordner befinden sich die mit dem scraper aufbearbeiteten Daten, die au
 
 Die Haushaltsdaten der Stadt Münster in PDF-Form sind aufgeteilt in Band 1 und 2. In seltenen Fällen enthält Band 2 alle Daten, meistens jedoch nur Produktkategorien 03 bis 17.
 
+Dateien mit dem Wort `complete` im Namen wurden stichprobenartig auf Korrektheit geprüft, z.T. manuell vervollständig und enthalten alle Daten aus Band 1 und 2, sofern Daten in den original PDFs getrennt vorliegen.
+
 ## Dateien in diesem Ordner
 
 ### Haushaltsdaten
@@ -63,7 +65,7 @@ Hinweise:
 
 ### Weitere Dokumente
 
-Aus den PDFs 2018 Band 1 und Band 2 für das Jahr 2016: Codes und Bezeichnungen für die Produktbereiche (Code-1) sowie Produktgruppen (Code-2, Untergruppen der Produktbereiche)
+Aus den PDFs 2018 Band 1 und Band 2 für das Jahr 2016: Codes und Bezeichnungen für die Produktbereiche (Code-1) sowie Produktgruppen (Code-2, Untergruppen der Produktbereiche), ergänzt um die Codes `0112 Gebäudemanagement` (im Haushalt 2007-2009) und `0505 Lastenausgleich` (2007-2011).
 
 * [codes-2016-produktbereiche.csv](codes-2016-produktbereiche.csv)
 * [codes-2016-produktgruppen.csv](codes-2016-produktgruppen.csv)
