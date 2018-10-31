@@ -12,6 +12,8 @@ Dateien mit dem Wort `complete` im Namen wurden stichprobenartig auf Korrektheit
 
 Ergebnisdaten für die Haushaltsjahre 2007 bis 2016: [ergebnisse_2007_2016.csv](ergebnisse_2007_2016.csv)
 
+Das Format der CSV entspricht grob dem Beispieldatensatz von OffenerHaushalt ([CSV](https://rawgit.com/okfde/offenerhaushalt.de/gh-pages/_haushalte-data/standard-datensatz-ohh.csv)) und von Moers ([CSV](https://s3.amazonaws.com/datastore.openspending.org/a6a16b964a7e784f99adecc47f26318a/moers-all/all-moers.csv)).
+
 ### Haushaltsdaten pro Jahr
 
 Hinweise:
