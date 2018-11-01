@@ -41,13 +41,14 @@ with open("ergebnisse_2007_2016.csv", 'w', newline='', encoding='utf-8') as resu
 			next(source_reader, None)
 			for source_row in source_reader:
 				# Code-1,Code-2,Bezeichnung,Richtung,Betrag
+				direction = "Erträge" if source_row['Richtung'] == "Einnamen" else "Aufwendungen"
 				values = [
 					source_row['Code-1'],
 					source_row['Code-2'],
 					product_codes1[source_row['Code-1']],
 					source_row['Bezeichnung'],
 					re.search("-([0-9]{4})-", source_file).group(1),
-					source_row['Richtung'],
+					direction,
 					source_row['Betrag'].replace(".","").replace(",","."), # to international number format 
 					"Ergebnis"
 				]
