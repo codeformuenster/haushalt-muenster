@@ -17,7 +17,7 @@ with open('codes-2016-produktgruppen.csv', newline='', encoding='UTF-8') as csvf
 	for row in codereader:
 		product_codes2[row[0]] = row[1]
 
-with open("ergebnisse_2007_2016.csv", 'w', newline='', encoding='utf-8') as results_csvfile:
+with open("ergebnisse_2007_2016.csv", 'w', newline='', encoding='UTF-8') as results_csvfile:
 	results_writer = csv.writer(results_csvfile, delimiter=',')
 	results_writer.writerow(['Produktbereich', 'Produktgruppe', 'Produktbereichsname', 'Produktgruppenbezeichnung', 'Jahr', 'Richtung', 'Betrag', 'Betrag-Typ'])
 	
@@ -36,19 +36,18 @@ with open("ergebnisse_2007_2016.csv", 'w', newline='', encoding='utf-8') as resu
 
 	for source_file in source_files:
 		print(source_file)
-		with open(source_file, newline='', encoding='utf-8') as source_csvfile:
+		with open(source_file, newline='', encoding='UTF-8') as source_csvfile:
 			source_reader = csv.DictReader(source_csvfile)
 			next(source_reader, None)
 			for source_row in source_reader:
 				# Code-1,Code-2,Bezeichnung,Richtung,Betrag
-				direction = "Erträge" if source_row['Richtung'] == "Einnamen" else "Aufwendungen"
 				values = [
 					source_row['Code-1'],
 					source_row['Code-2'],
 					product_codes1[source_row['Code-1']],
 					source_row['Bezeichnung'],
 					re.search("-([0-9]{4})-", source_file).group(1),
-					direction,
+					source_row['Richtung'],
 					source_row['Betrag'].replace(".","").replace(",","."), # to international number format 
 					"Ergebnis"
 				]

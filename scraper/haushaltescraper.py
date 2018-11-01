@@ -140,5 +140,5 @@ if __name__ == '__main__':
 				for process_result in process_results:
 					produktgruppe_ebene2 = process_result['produktgruppe_identifier']
 					produktgruppe_ebene1 = produktgruppe_ebene2[0:2]
-					spamwriter.writerow([produktgruppe_ebene1, produktgruppe_ebene2, process_result['produktgruppe_name'], 'Einnamen', process_result['ord_ertraege_value']])
-					spamwriter.writerow([produktgruppe_ebene1, produktgruppe_ebene2, process_result['produktgruppe_name'], 'Ausgaben', process_result['ord_aufwendungen_value']])
+					spamwriter.writerow([produktgruppe_ebene1, produktgruppe_ebene2, process_result['produktgruppe_name'], 'Erträge', process_result['ord_ertraege_value']])
+					spamwriter.writerow([produktgruppe_ebene1, produktgruppe_ebene2, process_result['produktgruppe_name'], 'Aufwendungen', process_result['ord_aufwendungen_value']])
