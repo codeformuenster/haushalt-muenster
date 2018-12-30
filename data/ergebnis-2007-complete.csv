@@ -1,0 +1,141 @@
+Code-1,Code-2,Bezeichnung,Richtung,Betrag
+01,0101,Bezirksvertretungen (frei verfügbare Mittel),Erträge,0
+01,0101,Bezirksvertretungen (frei verfügbare Mittel),Aufwendungen,0
+01,0102,"Geschäftsführung für politische Gremien, Städtepartnerschaften",Erträge,"83396,57"
+01,0102,"Geschäftsführung für politische Gremien, Städtepartnerschaften",Aufwendungen,"3025165,2"
+01,0103,"OBM, BM und Verwaltungsführung",Erträge,"77586,72"
+01,0103,"OBM, BM und Verwaltungsführung",Aufwendungen,"2438892,26"
+01,0104,Gleichstellung von Frau und Mann,Erträge,"34394,52"
+01,0104,Gleichstellung von Frau und Mann,Aufwendungen,"525136,29"
+01,0105,Personal- und Schwerbehindertenvertretung,Erträge,79700
+01,0105,Personal- und Schwerbehindertenvertretung,Aufwendungen,"461014,85"
+01,0106,Wirtschaftlichkeitsprüfung und Revision,Erträge,50005
+01,0106,Wirtschaftlichkeitsprüfung und Revision,Aufwendungen,"819378,17"
+01,0107,Public Relations,Erträge,"110177,37"
+01,0107,Public Relations,Aufwendungen,"1009365,59"
+01,0108,Personal- und Organisationsmanagement,Erträge,"595146,47"
+01,0108,Personal- und Organisationsmanagement,Aufwendungen,"3733210,94"
+01,0109,Finanz- und Beteiligungsmanagement,Erträge,0
+01,0109,Finanz- und Beteiligungsmanagement,Aufwendungen,0
+01,0110,Recht,Erträge,"673505,99"
+01,0110,Recht,Aufwendungen,"2639150,86"
+01,0111,Immobilienmanagement,Erträge,"18071047,81"
+01,0111,Immobilienmanagement,Aufwendungen,"14972527,48"
+01,0112,Gebäudemanagement,Erträge,"7201238,11"
+01,0112,Gebäudemanagement,Aufwendungen,"58235895,48"
+01,0113,Zentrale Dienste,Erträge,"1287725,66"
+01,0113,Zentrale Dienste,Aufwendungen,"2615659,96"
+01,0114,Stiftungsmanagement,Erträge,0
+01,0114,Stiftungsmanagement,Aufwendungen,0
+01,0115,IT-Management (citeq),Erträge,0
+01,0115,IT-Management (citeq),Aufwendungen,0
+01,0116,Migrations- und Integrationsmanagement,Erträge,0
+01,0116,Migrations- und Integrationsmanagement,Aufwendungen,0
+02,0201,Ordnungsrechtliche Angelegenheiten,Erträge,"536447,48"
+02,0201,Ordnungsrechtliche Angelegenheiten,Aufwendungen,"1541986,41"
+02,0202,Gewerberechtliche Angelegenheiten,Erträge,"1489905,66"
+02,0202,Gewerberechtliche Angelegenheiten,Aufwendungen,"1071239,53"
+02,0203,Straßenverkehrsrechtliche Angelegenheiten,Erträge,"7764468,02"
+02,0203,Straßenverkehrsrechtliche Angelegenheiten,Aufwendungen,"4729822,71"
+02,0204,Bürgerangelegenheiten,Erträge,0
+02,0204,Bürgerangelegenheiten,Aufwendungen,0
+02,0205,Standesamtsangelegenheiten,Erträge,0
+02,0205,Standesamtsangelegenheiten,Aufwendungen,0
+02,0206,Ausländerangelegenheiten,Erträge,"277172,76"
+02,0206,Ausländerangelegenheiten,Aufwendungen,"1138641,76"
+02,0207,Statistik,Erträge,2245
+02,0207,Statistik,Aufwendungen,"512000,26"
+02,0208,Wahlen,Erträge,0
+02,0208,Wahlen,Aufwendungen,0
+02,0209,Brandschutz und feuerwehrtechnische Hilfeleistung,Erträge,0
+02,0209,Brandschutz und feuerwehrtechnische Hilfeleistung,Aufwendungen,0
+02,0210,Rettungsdienst,Erträge,0
+02,0210,Rettungsdienst,Aufwendungen,0
+02,0211,Veterinär- und Lebensmittelangelegenheiten,Erträge,0
+02,0211,Veterinär- und Lebensmittelangelegenheiten,Aufwendungen,0
+03,0301,Leistungen für Schulen,Erträge,"4438622,29"
+03,0301,Leistungen für Schulen,Aufwendungen,"24745480,17"
+03,0302,Zentrale Leistungen für Schüler/-innen und am Schulleben Beteiligte,Erträge,"401970,25"
+03,0302,Zentrale Leistungen für Schüler/-innen und am Schulleben Beteiligte,Aufwendungen,"8890570,35"
+04,0401,Kulturmanagement / Kulturförderung,Erträge,"800432,67"
+04,0401,Kulturmanagement / Kulturförderung,Aufwendungen,"4354304,86"
+04,0402,Volkshochschule,Erträge,"2646243,56"
+04,0402,Volkshochschule,Aufwendungen,"3297617,5"
+04,0403,Westf. Schule für Musik und Förderung der Stadtteilmusikschulen,Erträge,"1732070,49"
+04,0403,Westf. Schule für Musik und Förderung der Stadtteilmusikschulen,Aufwendungen,"3821591,82"
+04,0404,Stadtbücherei und Förderung von Büchereien freier Träger,Erträge,"917893,46"
+04,0404,Stadtbücherei und Förderung von Büchereien freier Träger,Aufwendungen,"4155602,53"
+04,0405,Stadtmuseum,Erträge,"218815,75"
+04,0405,Stadtmuseum,Aufwendungen,"1266129,53"
+04,0406,Stadtarchiv,Erträge,"8362,51"
+04,0406,Stadtarchiv,Aufwendungen,"592216,43"
+04,0407,Städtische Bühnen,Erträge,0
+04,0407,Städtische Bühnen,Aufwendungen,0
+04,0408,Geschichtsort Villa ten Hompel,Erträge,"147323,14"
+04,0408,Geschichtsort Villa ten Hompel,Aufwendungen,"485911,06"
+05,0501,Leistungen der Grundsicherung nach dem SGB II,Erträge,0
+05,0501,Leistungen der Grundsicherung nach dem SGB II,Aufwendungen,0
+05,0502,Sicherung des Lebensunterhalts (ohne SGB II),Erträge,0
+05,0502,Sicherung des Lebensunterhalts (ohne SGB II),Aufwendungen,0
+05,0503,Sicherung besonderer sozialer Bedarfe,Erträge,0
+05,0503,Sicherung besonderer sozialer Bedarfe,Aufwendungen,0
+05,0504,Wohngeld,Erträge,0
+05,0504,Wohngeld,Aufwendungen,0
+05,0505,Lastenausgleich,Erträge,0
+05,0505,Lastenausgleich,Aufwendungen,0
+06,0601,Förderung von Kindern in Tagesbetreuung,Erträge,0
+06,0601,Förderung von Kindern in Tagesbetreuung,Aufwendungen,0
+06,0602,Kinder- und Jugendarbeit,Erträge,0
+06,0602,Kinder- und Jugendarbeit,Aufwendungen,0
+06,0603,Förd.von benachteiligten jungen Menschen,Erträge,0
+06,0603,Förd.von benachteiligten jungen Menschen,Aufwendungen,0
+06,0604,Familienförderung,Erträge,0
+06,0604,Familienförderung,Aufwendungen,0
+06,0605,Erzieherische und wirtschaftliche Hilfen für Familien,Erträge,0
+06,0605,Erzieherische und wirtschaftliche Hilfen für Familien,Aufwendungen,0
+07,0701,Gesundheitsdienste,Erträge,0
+07,0701,Gesundheitsdienste,Aufwendungen,0
+08,0801,"Sportentwicklung, Sportanlagen und -stätten",Erträge,"596611,4"
+08,0801,"Sportentwicklung, Sportanlagen und -stätten",Aufwendungen,"4930467,82"
+08,0802,Bäder,Erträge,"922248,63"
+08,0802,Bäder,Aufwendungen,"3057557,9"
+09,0901,"Stadt- und Regionalentwicklung, Stadtplanung",Erträge,"62952,88"
+09,0901,"Stadt- und Regionalentwicklung, Stadtplanung",Aufwendungen,"3283415,88"
+09,0902,"Vermessung, Kataster und Geoinformation",Erträge,0
+09,0902,"Vermessung, Kataster und Geoinformation",Aufwendungen,0
+10,1001,Bauaufsicht und baurechtliche Beratung,Erträge,0
+10,1001,Bauaufsicht und baurechtliche Beratung,Aufwendungen,0
+10,1002,Denkmalschutz und Denkmalpflege,Erträge,"869784,14"
+10,1002,Denkmalschutz und Denkmalpflege,Aufwendungen,"1154534,6"
+10,1003,Wohnen,Erträge,0
+10,1003,Wohnen,Aufwendungen,0
+11,1101,Abwasserbeseitigung,Erträge,0
+11,1101,Abwasserbeseitigung,Aufwendungen,0
+11,1102,Abfallwirtschaft (AWM),Erträge,0
+11,1102,Abfallwirtschaft (AWM),Aufwendungen,0
+12,1201,Bereitstellung von Verkehrsflächen und -anlagen,Erträge,0
+12,1201,Bereitstellung von Verkehrsflächen und -anlagen,Aufwendungen,0
+12,1202,Verkehrsplanung,Erträge,"2089415,46"
+12,1202,Verkehrsplanung,Aufwendungen,"3188379,27"
+13,1301,Grün- und Freiflächen,Erträge,"3072520,57"
+13,1301,Grün- und Freiflächen,Aufwendungen,"11751884,58"
+13,1302,Friedhöfe,Erträge,"1444765,37"
+13,1302,Friedhöfe,Aufwendungen,"1507727,54"
+13,1303,"Natur, Landschaft, Erholung, Wasserschutz",Erträge,"156381,3"
+13,1303,"Natur, Landschaft, Erholung, Wasserschutz",Aufwendungen,"2141237,58"
+13,1304,Fließende Gewässer,Erträge,0
+13,1304,Fließende Gewässer,Aufwendungen,0
+13,1305,Wald und Forstwirtschaft,Erträge,"305377,57"
+13,1305,Wald und Forstwirtschaft,Aufwendungen,"349626,63"
+14,1401,"Übergreifender Umweltschutz, Klima, Lärm, Boden, Abfall",Erträge,
+14,1401,"Übergreifender Umweltschutz, Klima, Lärm, Boden, Abfall",Aufwendungen,"1612973,27"
+15,1501,Anteile an Unternehmen,Erträge,0
+15,1501,Anteile an Unternehmen,Aufwendungen,0
+15,1502,Stadtmarketing (MM),Erträge,0
+15,1502,Stadtmarketing (MM),Aufwendungen,0
+15,1503,Stadthalle Hiltrup,Erträge,0
+15,1503,Stadthalle Hiltrup,Aufwendungen,0
+16,1601,Allgemeine Finanzwirtschaft,Erträge,0
+16,1601,Allgemeine Finanzwirtschaft,Aufwendungen,0
+17,1701,Rechtlich unselbständige Stiftungen,Erträge,0
+17,1701,Rechtlich unselbständige Stiftungen,Aufwendungen,0
