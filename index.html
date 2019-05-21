@@ -1,22 +1,33 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="">
     <head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Haushalt Münster</title>
-        <meta name="description" content="">
+        <meta name="description" content="Haushalt der Stadt Münster">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-        <h1>Haushalt der Stadt Münster</h1>
-        <h2>Ausgaben 2012</h2>
-        <iframe width='100%' height='600' src='https://openspending.org/de-muenster-gesamt/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22Produktgruppe%22%5D%2C%22year%22%3A2012%2C%22cuts%22%3A%7B%22Typ%22%3A%22Ausgaben%22%7D%7D&width=700&height=400' frameborder='0'></iframe>
-        <h2>Einnahmen 2012</h2>
-        <iframe width='100%' height='600' src='https://openspending.org/de-muenster-gesamt/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22Produktgruppe%22%5D%2C%22year%22%3A2012%2C%22cuts%22%3A%7B%22Typ%22%3A%22Einnahmen%22%7D%7D&width=700&height=400' frameborder='0'></iframe>
-        <p>Ein Projekt von <a href="http://codeformuenster.org">Code for Münster</a>
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <div class="header flex">
+            <h1>Haushalt der Stadt Münster</h1>
+
+            <a target="openspending" href="https://openspending.org/viewer/embed/treemap/7f037f45d2f473af5e754509a5bc9667:muenster-haushalt?measure=%22betrag.sum%22&groups%5B%5D=%22produktbereich.produktbereich%22&filters%5Bjahr.jahr%5D%5B%5D=2016&filters%5Brichtung.richtung%5D%5B%5D=%22Aufwendungen%22&order=%22betrag.sum%7Cdesc%22&lang=de">
+                Ausgaben 2016
+            </a>
+            |
+            <a target="openspending" href="https://openspending.org/viewer/embed/treemap/7f037f45d2f473af5e754509a5bc9667:muenster-haushalt?measure=%22betrag.sum%22&groups%5B%5D=%22produktbereich.produktbereich%22&filters%5Bjahr.jahr%5D%5B%5D=2016&filters%5Brichtung.richtung%5D%5B%5D=%22Ertr%C3%A4ge%22&order=%22betrag.sum%7Cdesc%22&lang=de">
+                Einnahmen 2016
+            </a>
+            |
+            <a href="https://github.com/codeformuenster/haushalt-muenster">
+                Projekt auf Github
+            </a>
+        </div>
+        <div class="content flex">
+            <iframe name="openspending" src='https://openspending.org/viewer/embed/treemap/7f037f45d2f473af5e754509a5bc9667:muenster-haushalt?measure=%22betrag.sum%22&groups%5B%5D=%22produktbereich.produktbereich%22&filters%5Bjahr.jahr%5D%5B%5D=2016&filters%5Brichtung.richtung%5D%5B%5D=%22Aufwendungen%22&order=%22betrag.sum%7Cdesc%22&lang=de' frameborder='0'></iframe>
+        </div>
+        <div class="footer flex">
+            Ein Projekt von <a href="http://codeformuenster.org"><img src="https://codeformuenster.org/img/cfm_logo.png" alt="Code for Münster Logo" title="Code for Münster"/></a>
+        </div>
     </body>
 </html>
