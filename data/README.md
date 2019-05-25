@@ -11,9 +11,10 @@ Dateien mit dem Wort `complete` im Namen wurden stichprobenartig auf Korrektheit
 * PDFs der Haushalte herunterladen (`Haushaltsplan <Jahr>, Band 1` und `Band 2`):
   * [Stadt Münster: Münsters Haushalt - Der Haushaltsplan](https://www.stadt-muenster.de/finanzen/muensters-haushalt/der-haushaltsplan.html)
   * [Stadt Münster: Münsters Haushalt - Archiv](https://www.stadt-muenster.de/finanzen/muensters-haushalt/archiv.html)
-* [scraper](../scraper/README.md) einrichten und Teilergebnis-CSVs (Band1 und 2) erzeugen
+* [scraper](../scraper/README.md) einrichten und Teilergebnis-CSVs (Band 1 und 2) erzeugen
 * Teilergebnis-CSVs kombinieren, Teilergebnisse überprüfen (0€-Ergebnisse, starke Steigerungen usw.) und ggf. vervollständigen (z.B. mit LibreOffice Calc oder einem Texteditor)
 * Neue ergebnisse.csv erzeugen mit `combine_complete.py`
+* Ergebnis bei OpenSpending einpflegen
 
 ## Dateien in diesem Ordner
 

@@ -45,3 +45,8 @@
 
 * [ergebnis-2016-band1.csv](ergebnis-2016-band1.csv): Ergebnis für das Jahr 2016 aus "Haushaltsplan 2018, Band 1"
 * [ergebnis-2016-band2.csv](ergebnis-2016-band2.csv): Ergebnis für das Jahr 2016 aus "Haushaltsplan 2018, Band 2"
+
+#### 2017
+
+* [ergebnis-2017-band1.csv](ergebnis-2017-band1.csv): Ergebnis für das Jahr 2017 aus "Haushaltsplan 2019, Band 1"
+* [ergebnis-2017-band2.csv](ergebnis-2017-band2.csv): Ergebnis für das Jahr 2017 aus "Haushaltsplan 2019, Band 2"
