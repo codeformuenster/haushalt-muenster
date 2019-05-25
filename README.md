@@ -9,5 +9,5 @@ haushalt-muenster
 
 Haushalt der Stadt Münster
 
-![haushalt-screenshot](https://cloud.githubusercontent.com/assets/6351193/12307749/864b95ec-ba41-11e5-99d0-c9b6511e0b4b.jpg)
+![haushalt-screenshot](https://user-images.githubusercontent.com/828496/58369885-14aba980-7f01-11e9-8c5b-89f6896461ee.jpg)
 
