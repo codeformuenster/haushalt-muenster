@@ -17,21 +17,22 @@ with open('codes-2016-produktgruppen.csv', newline='', encoding='UTF-8') as csvf
 	for row in codereader:
 		product_codes2[row[0]] = row[1]
 
-with open("ergebnisse_2007_2016.csv", 'w', newline='', encoding='UTF-8') as results_csvfile:
+with open("ergebnisse.csv", 'w', newline='', encoding='UTF-8') as results_csvfile:
 	results_writer = csv.writer(results_csvfile, delimiter=',')
 	results_writer.writerow(['Produktbereich', 'Produktgruppe', 'Produktbereichsname', 'Produktgruppenbezeichnung', 'Jahr', 'Richtung', 'Betrag', 'Betrag-Typ'])
 	
 	source_files = [
-		'ergebnis-2007-complete.csv',
-		'ergebnis-2008-complete.csv',
-		'ergebnis-2009-complete.csv',
-		'ergebnis-2010-complete.csv',
-		'ergebnis-2011-complete.csv',
-		'ergebnis-2012-complete.csv',
-		'ergebnis-2013-complete.csv',
-		'ergebnis-2014-complete.csv',
-		'ergebnis-2015-complete.csv',
-		'ergebnis-2016-complete.csv'
+		'partial-data/ergebnis-2007-complete.csv',
+		'partial-data/ergebnis-2008-complete.csv',
+		'partial-data/ergebnis-2009-complete.csv',
+		'partial-data/ergebnis-2010-complete.csv',
+		'partial-data/ergebnis-2011-complete.csv',
+		'partial-data/ergebnis-2012-complete.csv',
+		'partial-data/ergebnis-2013-complete.csv',
+		'partial-data/ergebnis-2014-complete.csv',
+		'partial-data/ergebnis-2015-complete.csv',
+		'partial-data/ergebnis-2016-complete.csv',
+		'partial-data/ergebnis-2017-complete.csv'
 	]
 
 	for source_file in source_files:
