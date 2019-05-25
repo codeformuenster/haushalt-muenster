@@ -1365,3 +1365,138 @@ Produktbereich,Produktgruppe,Produktbereichsname,Produktgruppenbezeichnung,Jahr,
 16,1601,Allgemeine Finanzwirtschaft,Allgemeine Finanzwirtschaft,2016,Aufwendungen,127325097.86,Ergebnis
 17,1701,Stiftungen,Rechtlich unselbständige Stiftungen,2016,Erträge,30985.32,Ergebnis
 17,1701,Stiftungen,Rechtlich unselbständige Stiftungen,2016,Aufwendungen,36266.85,Ergebnis
+01,0101,Innere Verwaltung,Bezirksvertretungen (frei verfügbare Mittel),2017,Aufwendungen,164083.76,Ergebnis
+01,0102,Innere Verwaltung,"Geschäftsführung für politische Gremien, Städtepartnerschaften",2017,Erträge,174053.97,Ergebnis
+01,0102,Innere Verwaltung,"Geschäftsführung für politische Gremien, Städtepartnerschaften",2017,Aufwendungen,4119583.99,Ergebnis
+01,0103,Innere Verwaltung,"OB, BM und Verwaltungsführung",2017,Erträge,54092.10,Ergebnis
+01,0103,Innere Verwaltung,"OB, BM und Verwaltungsführung",2017,Aufwendungen,5244625.80,Ergebnis
+01,0104,Innere Verwaltung,Gleichstellung von Frau und Mann,2017,Erträge,15313.68,Ergebnis
+01,0104,Innere Verwaltung,Gleichstellung von Frau und Mann,2017,Aufwendungen,943258.90,Ergebnis
+01,0105,Innere Verwaltung,Personal- und Schwerbehindertenvertretung,2017,Erträge,142744.17,Ergebnis
+01,0105,Innere Verwaltung,Personal- und Schwerbehindertenvertretung,2017,Aufwendungen,1344615.66,Ergebnis
+01,0106,Innere Verwaltung,Wirtschaftlichkeitsprüfung und Revision,2017,Erträge,52138.90,Ergebnis
+01,0106,Innere Verwaltung,Wirtschaftlichkeitsprüfung und Revision,2017,Aufwendungen,1543649.77,Ergebnis
+01,0107,Innere Verwaltung,Public Relations,2017,Erträge,75299.37,Ergebnis
+01,0107,Innere Verwaltung,Public Relations,2017,Aufwendungen,1388746.37,Ergebnis
+01,0108,Innere Verwaltung,Personal- und Organisationsmanagement,2017,Erträge,2400889.10,Ergebnis
+01,0108,Innere Verwaltung,Personal- und Organisationsmanagement,2017,Aufwendungen,10243291.23,Ergebnis
+01,0109,Innere Verwaltung,Finanz- und Beteiligungsmanagement,2017,Erträge,1917004.72,Ergebnis
+01,0109,Innere Verwaltung,Finanz- und Beteiligungsmanagement,2017,Aufwendungen,9932853.59,Ergebnis
+01,0110,Innere Verwaltung,Recht,2017,Erträge,496718.18,Ergebnis
+01,0110,Innere Verwaltung,Recht,2017,Aufwendungen,1892060.10,Ergebnis
+01,0111,Innere Verwaltung,Immobilienmanagement,2017,Erträge,34608119.15,Ergebnis
+01,0111,Innere Verwaltung,Immobilienmanagement,2017,Aufwendungen,98843566.82,Ergebnis
+01,0113,Innere Verwaltung,Zentrale Dienste,2017,Erträge,2256682.06,Ergebnis
+01,0113,Innere Verwaltung,Zentrale Dienste,2017,Aufwendungen,3013643.02,Ergebnis
+01,0114,Innere Verwaltung,Verwaltung der Kommunalen Stiftungen,2017,Erträge,224374.49,Ergebnis
+01,0114,Innere Verwaltung,Verwaltung der Kommunalen Stiftungen,2017,Aufwendungen,454115.91,Ergebnis
+01,0115,Innere Verwaltung,IT-Management (citeq),2017,Erträge,122456.70,Ergebnis
+01,0115,Innere Verwaltung,IT-Management (citeq),2017,Aufwendungen,334562.98,Ergebnis
+01,0116,Innere Verwaltung,Migrations- und Integrationsmanagement,2017,Erträge,406964.66,Ergebnis
+01,0116,Innere Verwaltung,Migrations- und Integrationsmanagement,2017,Aufwendungen,1122368.31,Ergebnis
+02,0201,Sicherheit und Ordnung,Ordnungsrechtliche Angelegenheiten,2017,Erträge,1966613.44,Ergebnis
+02,0201,Sicherheit und Ordnung,Ordnungsrechtliche Angelegenheiten,2017,Aufwendungen,4206839.33,Ergebnis
+02,0202,Sicherheit und Ordnung,Gewerberechtliche Angelegenheiten,2017,Erträge,1244400.40,Ergebnis
+02,0202,Sicherheit und Ordnung,Gewerberechtliche Angelegenheiten,2017,Aufwendungen,1761009.63,Ergebnis
+02,0203,Sicherheit und Ordnung,Straßenverkehrsrechtliche Angelegenheiten,2017,Erträge,8745553.54,Ergebnis
+02,0203,Sicherheit und Ordnung,Straßenverkehrsrechtliche Angelegenheiten,2017,Aufwendungen,8434340.47,Ergebnis
+02,0204,Sicherheit und Ordnung,Bürgerangelegenheiten,2017,Erträge,2737231.43,Ergebnis
+02,0204,Sicherheit und Ordnung,Bürgerangelegenheiten,2017,Aufwendungen,7447403.59,Ergebnis
+02,0205,Sicherheit und Ordnung,Standesamtsangelegenheiten,2017,Erträge,822412.72,Ergebnis
+02,0205,Sicherheit und Ordnung,Standesamtsangelegenheiten,2017,Aufwendungen,1530589.54,Ergebnis
+02,0206,Sicherheit und Ordnung,Ausländerangelegenheiten,2017,Erträge,573562.71,Ergebnis
+02,0206,Sicherheit und Ordnung,Ausländerangelegenheiten,2017,Aufwendungen,3204430.09,Ergebnis
+02,0207,Sicherheit und Ordnung,Statistik,2017,Erträge,1727.26,Ergebnis
+02,0207,Sicherheit und Ordnung,Statistik,2017,Aufwendungen,592274.92,Ergebnis
+02,0208,Sicherheit und Ordnung,Wahlen,2017,Erträge,466806.11,Ergebnis
+02,0208,Sicherheit und Ordnung,Wahlen,2017,Aufwendungen,855649.95,Ergebnis
+02,0209,Sicherheit und Ordnung,Brandschutz und feuerwehrtechnische Hilfeleistung,2017,Erträge,1714837.19,Ergebnis
+02,0209,Sicherheit und Ordnung,Brandschutz und feuerwehrtechnische Hilfeleistung,2017,Aufwendungen,27275935.34,Ergebnis
+02,0210,Sicherheit und Ordnung,Rettungsdienst,2017,Erträge,12114129.13,Ergebnis
+02,0210,Sicherheit und Ordnung,Rettungsdienst,2017,Aufwendungen,16617041.37,Ergebnis
+02,0211,Sicherheit und Ordnung,Veterinär- und Lebensmittelangelegenheiten,2017,Erträge,155603.65,Ergebnis
+02,0211,Sicherheit und Ordnung,Veterinär- und Lebensmittelangelegenheiten,2017,Aufwendungen,2557805.49,Ergebnis
+03,0301,Schulträgeraufgaben,Leistungen für Schulen,2017,Erträge,3269024.18,Ergebnis
+03,0301,Schulträgeraufgaben,Leistungen für Schulen,2017,Aufwendungen,27879450.89,Ergebnis
+03,0302,Schulträgeraufgaben,Zentrale Leistungen für am Schulleben Beteiligte,2017,Erträge,510358.27,Ergebnis
+03,0302,Schulträgeraufgaben,Zentrale Leistungen für am Schulleben Beteiligte,2017,Aufwendungen,13111660.75,Ergebnis
+04,0401,Kultur und Wissenschaft,Kulturmanagement / Kulturförderung,2017,Erträge,546024.49,Ergebnis
+04,0401,Kultur und Wissenschaft,Kulturmanagement / Kulturförderung,2017,Aufwendungen,5050635.98,Ergebnis
+04,0402,Kultur und Wissenschaft,Volkshochschule,2017,Erträge,2520684.28,Ergebnis
+04,0402,Kultur und Wissenschaft,Volkshochschule,2017,Aufwendungen,3949039.45,Ergebnis
+04,0403,Kultur und Wissenschaft,Westf. Schule für Musik und Förderung der Stadtteilmusikschulen,2017,Erträge,2423852.99,Ergebnis
+04,0403,Kultur und Wissenschaft,Westf. Schule für Musik und Förderung der Stadtteilmusikschulen,2017,Aufwendungen,5054706.71,Ergebnis
+04,0404,Kultur und Wissenschaft,Stadtbücherei und Förderung von Büchereien freier Träger,2017,Erträge,789648.49,Ergebnis
+04,0404,Kultur und Wissenschaft,Stadtbücherei und Förderung von Büchereien freier Träger,2017,Aufwendungen,5389427.94,Ergebnis
+04,0405,Kultur und Wissenschaft,Stadtmuseum,2017,Erträge,179643.80,Ergebnis
+04,0405,Kultur und Wissenschaft,Stadtmuseum,2017,Aufwendungen,1912344.98,Ergebnis
+04,0406,Kultur und Wissenschaft,Stadtarchiv,2017,Erträge,17096.10,Ergebnis
+04,0406,Kultur und Wissenschaft,Stadtarchiv,2017,Aufwendungen,890795.16,Ergebnis
+04,0407,Kultur und Wissenschaft,Theater Münster,2017,Erträge,225000.00,Ergebnis
+04,0407,Kultur und Wissenschaft,Theater Münster,2017,Aufwendungen,20846094.64,Ergebnis
+04,0408,Kultur und Wissenschaft,Geschichtsort Villa ten Hompel,2017,Erträge,380806.97,Ergebnis
+04,0408,Kultur und Wissenschaft,Geschichtsort Villa ten Hompel,2017,Aufwendungen,890187.13,Ergebnis
+05,0501,Soziale Leistungen,Leistungen der Grundsicherung nach dem SGB II,2017,Erträge,143467274.00,Ergebnis
+05,0501,Soziale Leistungen,Leistungen der Grundsicherung nach dem SGB II,2017,Aufwendungen,176943340.44,Ergebnis
+05,0502,Soziale Leistungen,Sicherung des Lebensunterhalts,2017,Erträge,48914358.99,Ergebnis
+05,0502,Soziale Leistungen,Sicherung des Lebensunterhalts,2017,Aufwendungen,63749597.82,Ergebnis
+05,0503,Soziale Leistungen,Sicherung besonderer sozialer Bedarfe,2017,Erträge,4630447.40,Ergebnis
+05,0503,Soziale Leistungen,Sicherung besonderer sozialer Bedarfe,2017,Aufwendungen,45303133.65,Ergebnis
+05,0504,Soziale Leistungen,Wohngeld,2017,Erträge,2868.75,Ergebnis
+05,0504,Soziale Leistungen,Wohngeld,2017,Aufwendungen,1177529.09,Ergebnis
+06,0601,"Kunder-, Jugend und Familienhilfe",Förderung von Kindern in Tagesbetreuung,2017,Erträge,83749962.08,Ergebnis
+06,0601,"Kunder-, Jugend und Familienhilfe",Förderung von Kindern in Tagesbetreuung,2017,Aufwendungen,118569831.47,Ergebnis
+06,0602,"Kunder-, Jugend und Familienhilfe",Kinder- und Jugendarbeit,2017,Erträge,11081611.93,Ergebnis
+06,0602,"Kunder-, Jugend und Familienhilfe",Kinder- und Jugendarbeit,2017,Aufwendungen,23821213.30,Ergebnis
+06,0603,"Kunder-, Jugend und Familienhilfe",Förderung von benachteiligten jungen Menschen,2017,Erträge,326189.40,Ergebnis
+06,0603,"Kunder-, Jugend und Familienhilfe",Förderung von benachteiligten jungen Menschen,2017,Aufwendungen,6263380.08,Ergebnis
+06,0604,"Kunder-, Jugend und Familienhilfe",Familienförderung,2017,Erträge,346088.39,Ergebnis
+06,0604,"Kunder-, Jugend und Familienhilfe",Familienförderung,2017,Aufwendungen,4073737.16,Ergebnis
+06,0605,"Kunder-, Jugend und Familienhilfe",Erzieherische und wirtschaftliche Hilfen für Familien,2017,Erträge,26999236.04,Ergebnis
+06,0605,"Kunder-, Jugend und Familienhilfe",Erzieherische und wirtschaftliche Hilfen für Familien,2017,Aufwendungen,64032216.87,Ergebnis
+07,0701,Gesundheitsdienste,Gesundheitsdienste,2017,Erträge,976521.02,Ergebnis
+07,0701,Gesundheitsdienste,Gesundheitsdienste,2017,Aufwendungen,11103345.43,Ergebnis
+08,0801,Sportförderung,"Sportentwicklung, Sportanlagen und -stätten",2017,Erträge,994300.59,Ergebnis
+08,0801,Sportförderung,"Sportentwicklung, Sportanlagen und -stätten",2017,Aufwendungen,7847792.52,Ergebnis
+08,0802,Sportförderung,Bäder,2017,Erträge,1309933.60,Ergebnis
+08,0802,Sportförderung,Bäder,2017,Aufwendungen,4608248.38,Ergebnis
+09,0901,Räumliche Planung und Entwicklung/Geoinformationen,"Stadt- und Regionalentwicklung, Stadtplanung",2017,Erträge,339886.02,Ergebnis
+09,0901,Räumliche Planung und Entwicklung/Geoinformationen,"Stadt- und Regionalentwicklung, Stadtplanung",2017,Aufwendungen,10164621.76,Ergebnis
+09,0902,Räumliche Planung und Entwicklung/Geoinformationen,"Vermessung, Kataster und Geoinformation",2017,Erträge,903313.51,Ergebnis
+09,0902,Räumliche Planung und Entwicklung/Geoinformationen,"Vermessung, Kataster und Geoinformation",2017,Aufwendungen,7309661.38,Ergebnis
+10,1001,Bauen und Wohnen,Bauaufsicht und baurechtliche Beratung,2017,Erträge,3489178.56,Ergebnis
+10,1001,Bauen und Wohnen,Bauaufsicht und baurechtliche Beratung,2017,Aufwendungen,4667595.96,Ergebnis
+10,1002,Bauen und Wohnen,Denkmalschutz und Denkmalpflege,2017,Erträge,494928.80,Ergebnis
+10,1002,Bauen und Wohnen,Denkmalschutz und Denkmalpflege,2017,Aufwendungen,975192.16,Ergebnis
+10,1003,Bauen und Wohnen,Wohnen,2017,Erträge,339839.64,Ergebnis
+10,1003,Bauen und Wohnen,Wohnen,2017,Aufwendungen,2578535.38,Ergebnis
+11,1101,Ver- und Entsorgung,Abwasserbeseitigung,2017,Erträge,67874608.06,Ergebnis
+11,1101,Ver- und Entsorgung,Abwasserbeseitigung,2017,Aufwendungen,41646798.42,Ergebnis
+11,1102,Ver- und Entsorgung,Abfallwirtschaft (AWM),2017,Erträge,0.00,Ergebnis
+11,1102,Ver- und Entsorgung,Abfallwirtschaft (AWM),2017,Aufwendungen,0.00,Ergebnis
+12,1201,"Verkehrsflächen und -anlagen, ÖPNV",Bereitstellung von Verkehrsflächen und -anlagen,2017,Erträge,26918589.40,Ergebnis
+12,1201,"Verkehrsflächen und -anlagen, ÖPNV",Bereitstellung von Verkehrsflächen und -anlagen,2017,Aufwendungen,62639689.54,Ergebnis
+12,1202,"Verkehrsflächen und -anlagen, ÖPNV",Verkehrsplanung,2017,Erträge,4765258.53,Ergebnis
+12,1202,"Verkehrsflächen und -anlagen, ÖPNV",Verkehrsplanung,2017,Aufwendungen,6420137.02,Ergebnis
+13,1301,Natur- und Landschaftspflege,Grün- und Freiflächen,2017,Erträge,1339029.20,Ergebnis
+13,1301,Natur- und Landschaftspflege,Grün- und Freiflächen,2017,Aufwendungen,13995179.85,Ergebnis
+13,1302,Natur- und Landschaftspflege,Friedhöfe,2017,Erträge,1828556.10,Ergebnis
+13,1302,Natur- und Landschaftspflege,Friedhöfe,2017,Aufwendungen,1962589.57,Ergebnis
+13,1303,Natur- und Landschaftspflege,"Natur, Landschaft, Erholung, Wasserschutz",2017,Erträge,362508.03,Ergebnis
+13,1303,Natur- und Landschaftspflege,"Natur, Landschaft, Erholung, Wasserschutz",2017,Aufwendungen,3313245.46,Ergebnis
+13,1304,Natur- und Landschaftspflege,Fließende Gewässer,2017,Erträge,817724.23,Ergebnis
+13,1304,Natur- und Landschaftspflege,Fließende Gewässer,2017,Aufwendungen,1264788.66,Ergebnis
+13,1305,Natur- und Landschaftspflege,Wald und Forstwirtschaft,2017,Erträge,252082.89,Ergebnis
+13,1305,Natur- und Landschaftspflege,Wald und Forstwirtschaft,2017,Aufwendungen,445500.04,Ergebnis
+14,1401,Umweltschutz,"Übergreifender Umweltschutz, Klima, Immission, Boden, Abfall",2017,Erträge,745483.23,Ergebnis
+14,1401,Umweltschutz,"Übergreifender Umweltschutz, Klima, Immission, Boden, Abfall",2017,Aufwendungen,2950698.55,Ergebnis
+15,1501,Wirtschaft und Tourismus,Anteile an Unternehmen,2017,Erträge,22929906.98,Ergebnis
+15,1501,Wirtschaft und Tourismus,Anteile an Unternehmen,2017,Aufwendungen,12361565.74,Ergebnis
+15,1502,Wirtschaft und Tourismus,Stadtmarketing (MM),2017,Erträge,0.00,Ergebnis
+15,1502,Wirtschaft und Tourismus,Stadtmarketing (MM),2017,Aufwendungen,2744813.00,Ergebnis
+15,1503,Wirtschaft und Tourismus,Stadthalle Hiltrup,2017,Erträge,165038.96,Ergebnis
+15,1503,Wirtschaft und Tourismus,Stadthalle Hiltrup,2017,Aufwendungen,315163.89,Ergebnis
+16,1601,Allgemeine Finanzwirtschaft,Allgemeine Finanzwirtschaft,2017,Erträge,617047678.50,Ergebnis
+16,1601,Allgemeine Finanzwirtschaft,Allgemeine Finanzwirtschaft,2017,Aufwendungen,142239717.09,Ergebnis
+17,1701,Stiftungen,Rechtlich unselbständige Stiftungen,2017,Erträge,86590.18,Ergebnis
+17,1701,Stiftungen,Rechtlich unselbständige Stiftungen,2017,Aufwendungen,0.00,Ergebnis
