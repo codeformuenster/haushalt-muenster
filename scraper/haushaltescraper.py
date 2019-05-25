@@ -117,14 +117,16 @@ if __name__ == '__main__':
 	#pdf_filename = "input/HPL_2015_Band_1_mit_Seitenz_m_Lesez.pdf"    # 626 pages
 	#pdf_filename = "input/HH_2016_Band_1_Druckexemplar_m_Lesez.pdf"   # 614 pages
 	#pdf_filename = "input/HH_2017_Band_1_m_Lesez-rotated.pdf"         # 217 pages
-	pdf_filename = "input/HH_2018_Band_1.pdf"                         # 650 pages
+	#pdf_filename = "input/HH_2018_Band_1.pdf"                         # 650 pages
+	#pdf_filename = "2019_endg_HPL_Band_1_m_Lesez.pdf"                 # 658 pages
+	pdf_filename = "2019_endg_HPL_Band_2_m_Lesez.pdf"                 # 612 pages
 	
-	out_filename = "output/ergebnis-2016-band1.csv"
+	out_filename = "output/ergebnis-2017-band2.csv"
 	# pagelist is 0-indexed
 	# create as many lists as you have cores available (leave at least one unused to not totally bog down your computer)
 	# distribute page range evenly for quickest processing, leave out pages that are not of interest
 	processes = 3
-	pagelist = [list(range(415,500)), list(range(500,600)), list(range(600,650))]
+	pagelist = [list(range(10,200)), list(range(200,400)), list(range(400,600))]
 	# more detailed logging
 	verbose = False
 	## Config end
